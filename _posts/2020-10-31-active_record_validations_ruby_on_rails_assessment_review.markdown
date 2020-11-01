@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Active Record Validations: Ruby on Rails Assessment Review"
-date:       2020-11-01 00:34:00 +0000
+date:       2020-10-31 20:34:01 -0400
 permalink:  active_record_validations_ruby_on_rails_assessment_review
 ---
 
